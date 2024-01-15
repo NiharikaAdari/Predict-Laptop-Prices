@@ -11,6 +11,7 @@ I have implemented a user-friendly interface using a Flask server, complemented 
 **Machine Learning Model:**
 -Utilized a multi-regression approach with linear regression algorithms. Trained the model to predict prices based on input features. 
 -Model has an R-squared Score: 0.8078398064430103
+
 **Web Application:**
 -Implemented a Flask server to handle user requests.
 -Designed a clean and intuitive user interface with HTML.
